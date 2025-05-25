@@ -14,4 +14,4 @@
 
 [Ссылка на документ](https://app.qase.io/run/G10/dashboard/86)
 
-[Тестовый прагон.pdf](https://github.com/user-attachments/files/20431755/G10-Test%2Brun%2B2025_05_25.pdf)
+[Test run.pdf](https://github.com/user-attachments/files/20431755/G10-Test%2Brun%2B2025_05_25.pdf)
