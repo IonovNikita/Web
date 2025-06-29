@@ -17,5 +17,9 @@
 [Test run.pdf](https://github.com/user-attachments/files/20431755/G10-Test%2Brun%2B2025_05_25.pdf)
 
 Перехват трафика: 
-https://github.com/user-attachments/assets/d6a17049-ca64-42e7-bf71-653e4311b734
 
+[Изменить количество товара в корзине](https://github.com/user-attachments/assets/d6a17049-ca64-42e7-bf71-653e4311b734)
+
+[Изменить статус-код](https://github.com/user-attachments/assets/01549b00-5f5e-4be1-bfd7-794d78f4ea06)
+
+[Перенаправление с одного окружения на другое](https://github.com/user-attachments/assets/7ff6aca1-54e4-4ec0-b828-2e66d0210edf)
