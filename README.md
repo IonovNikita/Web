@@ -1,10 +1,10 @@
 Тестирование [веб-приложения](https://qa.demoshopping.ru/).
 ##
 
-Разработал тест-план для комплексного тестирования веб-приложения интернет-магазина: [Тест план](https://docs.google.com/spreadsheets/d/1AirK8DwknPFYNT64nKCBQu29HiJkPuG0tQz0agT4JN0/edit?gid=0#gid=0)
+Разработал тест-план для комплексного тестирования веб-приложения интернет-магазина: [Тест план](https://docs.google.com/spreadsheets/d/1WDUPZyNOh4Ny6QSOYXsLvTA2E4ycvT1yk0gf1FBT3VE/edit?gid=0#gid=0)
 ##
 
-Провёл составление и применение чек-листа для проверки регистрации, авторизации, каталога, корзины и оплаты в веб-приложении интернет-магазина: [Чек лист](https://docs.google.com/spreadsheets/d/1b7HudCtP6gWDxg3OTN17qE2tcj5iKedb9nNoCqhRQto/edit?gid=0#gid=0)
+Провёл составление и применение чек-листа для проверки регистрации, авторизации, каталога, корзины и оплаты в веб-приложении интернет-магазина: [Чек лист](https://docs.google.com/spreadsheets/d/1AirK8DwknPFYNT64nKCBQu29HiJkPuG0tQz0agT4JN0/edit?gid=0#gid=0)
 ##
 
 Разработал и выполнил тест-кейсы в QASE для модулей регистрации, авторизации, каталога, корзины и оплаты веб-приложения интернет-магазина:
