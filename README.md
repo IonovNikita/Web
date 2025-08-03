@@ -2,21 +2,16 @@
 
 Разработал тест-план для комплексного тестирования веб-приложения интернет-магазина: [Тест план](https://docs.google.com/spreadsheets/d/1WDUPZyNOh4Ny6QSOYXsLvTA2E4ycvT1yk0gf1FBT3VE/edit?gid=0#gid=0)
 
-Чек лист: [Ссылка на документ](https://docs.google.com/spreadsheets/d/1b7HudCtP6gWDxg3OTN17qE2tcj5iKedb9nNoCqhRQto/edit?gid=0#gid=0)
+Провёл составление и применение чек-листа для проверки регистрации, авторизации, каталога, корзины и оплаты в веб-приложении интернет-магазина: [Чек лист](https://docs.google.com/spreadsheets/d/1b7HudCtP6gWDxg3OTN17qE2tcj5iKedb9nNoCqhRQto/edit?gid=0#gid=0)
 
-Тест-кейсы:[Ссылка на документ](https://app.qase.io/project/G10?author=341&previewMode=side&suite=3&tab=)
+Разработал и выполнил тест-кейсы в QASE для модулей регистрации, авторизации, каталога, корзины и оплаты веб-приложения интернет-магазина:[Тест-кейсы.pdf](https://github.com/user-attachments/files/20301747/G10-2025-05-19.pdf)
 
-[Тест-кейсы.pdf](https://github.com/user-attachments/files/20301747/G10-2025-05-19.pdf)
+Провёл тест-ран с фиксацией результатов тестирования регистрации, авторизации и каталога веб-приложения интернет-магазина: [Test run.pdf](https://github.com/user-attachments/files/20431755/G10-Test%2Brun%2B2025_05_25.pdf)
 
-Отчет о дефектах: [Ссылка на документ](https://artsiomrusau.youtrack.cloud/issue/G10-732/Web-App-Testing-Nikita-Ionov)
+Оформил баг-репорты по найденным дефектам в YouTrack для веб-приложения интернет-магазина: [Отчет о дефектах.xlsx](https://github.com/user-attachments/files/20431751/Issues.3.xlsx)
 
-[Отчет о дефектах.xlsx](https://github.com/user-attachments/files/20431751/Issues.3.xlsx)
 
-[Ссылка на документ](https://app.qase.io/run/G10/dashboard/86)
-
-[Test run.pdf](https://github.com/user-attachments/files/20431755/G10-Test%2Brun%2B2025_05_25.pdf)
-
-Перехват трафика:
+Провёл перехват и анализ HTTP-трафика веб-приложения интернет-магазина на ноутбуке:
 
 - Изменить количество товара в корзине:
 [Ссылка на видеозапись](https://github.com/user-attachments/assets/4c7c329f-9ffd-4ab7-9d6c-84a0f9c1a7c1)
