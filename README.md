@@ -1,6 +1,6 @@
 Тестирование [веб-приложения](https://qa.demoshopping.ru/).
 
-Тест-план: [Ссылка на документ](https://docs.google.com/spreadsheets/d/1C3nXn6KETyrEKfxtHn0aokWEIPoIYw2ViINikKfzNHY/edit?gid=0#gid=0)
+Разработал тест-план для комплексного тестирования веб-приложения интернет-магазина: [Тест план](https://docs.google.com/spreadsheets/d/1WDUPZyNOh4Ny6QSOYXsLvTA2E4ycvT1yk0gf1FBT3VE/edit?gid=0#gid=0)
 
 Чек лист: [Ссылка на документ](https://docs.google.com/spreadsheets/d/1b7HudCtP6gWDxg3OTN17qE2tcj5iKedb9nNoCqhRQto/edit?gid=0#gid=0)
 
