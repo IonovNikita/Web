@@ -1,15 +1,26 @@
 Тестирование [веб-приложения](https://qa.demoshopping.ru/).
+##
 
 Разработал тест-план для комплексного тестирования веб-приложения интернет-магазина: [Тест план](https://docs.google.com/spreadsheets/d/1WDUPZyNOh4Ny6QSOYXsLvTA2E4ycvT1yk0gf1FBT3VE/edit?gid=0#gid=0)
+##
 
 Провёл составление и применение чек-листа для проверки регистрации, авторизации, каталога, корзины и оплаты в веб-приложении интернет-магазина: [Чек лист](https://docs.google.com/spreadsheets/d/1b7HudCtP6gWDxg3OTN17qE2tcj5iKedb9nNoCqhRQto/edit?gid=0#gid=0)
+##
 
 Разработал и выполнил тест-кейсы в QASE для модулей регистрации, авторизации, каталога, корзины и оплаты веб-приложения интернет-магазина:[Тест-кейсы.pdf](https://github.com/user-attachments/files/20301747/G10-2025-05-19.pdf)
 
+[Тест-кейсы.pdf](https://github.com/user-attachments/files/20012150/G10-2025-05-02.-.pdf)
+##
+
 Провёл тест-ран с фиксацией результатов тестирования регистрации, авторизации и каталога веб-приложения интернет-магазина: [Test run.pdf](https://github.com/user-attachments/files/20431755/G10-Test%2Brun%2B2025_05_25.pdf)
+
+[Test run.pdf](https://github.com/user-attachments/files/20047747/G10-Test%2Brun%2B2025_05_05.pdf) 
+##
 
 Оформил баг-репорты по найденным дефектам в YouTrack для веб-приложения интернет-магазина: [Отчет о дефектах.xlsx](https://github.com/user-attachments/files/20431751/Issues.3.xlsx)
 
+[Отчет о дефектах.xlsx](https://github.com/user-attachments/files/20069080/Issues.2.xlsx)
+##
 
 Провёл перехват и анализ HTTP-трафика веб-приложения интернет-магазина на ноутбуке:
 
